@@ -2,8 +2,6 @@
 <img src="https://github.com/saptakbhadra/mercedesbenzKgle/blob/master/MercedesKaggle.PNG" alt=".." title="Mercedes Benz"/>
 [Official Website](https://www.kaggle.com/c/mercedes-benz-greener-manufacturing/overview)
 
-***Score : 0.54854***
-
 ### Model Used : XGBRegressor
 
 #### **My Contribution** :
@@ -19,4 +17,4 @@ for i in range(corr.shape[0]):
 selected_columns = final_df.columns[columns]
 final_df = final_df[selected_columns]
 ```
-
+***My Public Score : 0.54854***
