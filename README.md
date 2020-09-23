@@ -2,11 +2,13 @@
 <img src="https://github.com/saptakbhadra/mercedesbenzKgle/blob/master/MercedesKaggle.PNG" alt=".." title="Mercedes Benz"/>
 [Official Website](https://www.kaggle.com/c/mercedes-benz-greener-manufacturing/overview)
 
-Score : 0.54854
+***Score : 0.54854***
 
-Model Used : XGBRegressor
+### Model Used : XGBRegressor
 
-**My Contribution** : Used **Correlation** for the reduction of Varibles.
+#### **My Contribution** :
+
+Used ***Correlation*** for the reduction of Varibles.
 ```
 columns = np.full((corr.shape[0]), True, dtype=bool)
 for i in range(corr.shape[0]):
